@@ -1,5 +1,5 @@
 # Projem
-Yapay Zeka Dünyasında Siber Güvenlik ve Bilişim Suçları
+**Yapay Zeka Dünyasında Siber Güvenlik ve Bilişim Suçları**
 
 Projeme Başlama Tarihim: 13.03.2023 Pazartesi
 
