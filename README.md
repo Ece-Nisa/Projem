@@ -14,3 +14,5 @@ Genel olarak 13-26 Mart 2023 tarihleri arasında internet üzerinden bulduğum k
 
 03-09 Nisan 2023 tarihleri arasında proje şablonu nasıl yapılır? konularını araştırma yaparak proje şablonu çıkarılacak ve yazılar yavaş yavaş yazılmaya başlanacak.
 *07 Nisan 2023 Cuma günü github proje kısmı düzenlenecek ve dosyaların tamamı yüklenecek.*
+
+**Bir sorun olduğundan dolayı dosyaların tamamı 24 Nisan Pazartesi günü yüklenecektir.**
