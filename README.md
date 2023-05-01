@@ -16,3 +16,5 @@ Genel olarak 13-26 Mart 2023 tarihleri arasında internet üzerinden bulduğum k
 *07 Nisan 2023 Cuma günü github proje kısmı düzenlenecek ve dosyaların tamamı yüklenecek.*
 
 **Bir sorun olduğundan dolayı dosyaların tamamı 24 Nisan Pazartesi günü yüklenecektir.**
+
+01/05/2023 Dosya kaybım olduğundan araştırmama tekrardan başladım. Koyacağım word dosyası araştırmamda kullanacağım bilgilerin bir kısmını içerecektir.
